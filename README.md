@@ -78,4 +78,16 @@ biology/
 
 ## License
 
-如无特殊说明，默认仅作学习交流使用。
+本项目采用 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)（CC BY-SA 4.0）许可证发布。
+
+这意味着你可以在遵守协议要求的前提下：
+
+- 复制与传播本项目内容
+- 修改、改编与再创作本项目内容
+- 在任何媒介和格式中使用本项目内容
+
+你需要：
+
+- **署名**原作者
+- **说明是否作出修改**
+- 如果基于本项目内容进行再创作并发布，需采用**相同协议**共享
